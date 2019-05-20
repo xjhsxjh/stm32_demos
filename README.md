@@ -22,7 +22,6 @@ trees
   LICENSE
   README.md
 
-
 build
 =======
 1. prepare arm-none-eabi- toolchain
